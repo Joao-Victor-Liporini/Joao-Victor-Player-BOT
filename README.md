@@ -2,7 +2,7 @@
 
 # João Victor Player bot
 
-Um Bot avançado de discórdia, contém comandos para moderação, diversão, música, e economia.
+Um Bot avançado do Discord, contém comandos para moderação, diversão, música, e economia.
 
 [![Discord](https://discord.com/api/guilds/731629737343975494/widget.png?style=banner2)](https://invite.gg/joao_victor_player)
 
